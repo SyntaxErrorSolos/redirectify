@@ -31,7 +31,7 @@ export default function Home() {
       <div className="m-auto text-center">
         <div id="hero_section" className="space-y-6">
           <h1 className="text-4xl text-white font-medium">
-            bro, you're a programmer. We don't talk to females
+            bro, youre a programmer. We dont talk to females
           </h1>
           <div id="gif-container"></div>
         </div>
