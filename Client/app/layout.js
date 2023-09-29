@@ -1,11 +1,11 @@
 import './globals.css'
-import { Lora } from 'next/font/google'
+import { Ubuntu } from 'next/font/google'
 
-const inter = Lora({ subsets: ['latin'], weight: ["700", "400", "500"] })
+const inter = Ubuntu({ subsets: ['latin'], weight: ["700", "400", "500"] })
 
 export const metadata = {
-  title: 'programmers dont talk to females',
-  description: 'We don\'t.',
+  title: 'Redirectify',
+  description: 'Instantly create a link shortner!',
 }
 
 export default function RootLayout({ children }) {
